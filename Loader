@@ -17,5 +17,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaizenofficiall/KaiZe
 elseif game.PlaceId == 6875469709 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaizenofficiall/KaiZen/main/Strongest%20simulator", true))()
 else
-game.Players.LocalPlayer:Kick("Game not supported")
+game.Players.LocalPlayer:Kick("Game Tidak support")
 end
