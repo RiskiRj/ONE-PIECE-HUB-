@@ -219,7 +219,7 @@ LoadTitle.BackgroundTransparency = 1.000
 LoadTitle.Position = UDim2.new(0.0432743616, 0, 0.1125011, 0)
 LoadTitle.Size = UDim2.new(0, 200, 0, 23)
 LoadTitle.Font = Enum.Font.GothamSemibold
-LoadTitle.Text = "ZEN HUB"
+LoadTitle.Text = "ONE PIECE HUB"
 LoadTitle.TextColor3 = Color3.fromRGB(68, 68, 68)
 LoadTitle.TextSize = 12.000
 LoadTitle.TextXAlignment = Enum.TextXAlignment.Left
@@ -253,32 +253,32 @@ LoadText.Text = "Getting Data..."
 wait(1)
 
 Barload:TweenSize(UDim2.new(0, 100,0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .3, true)
-LoadText.Text = "Hello " ..game.Players.LocalPlayer.DisplayName.. " From: ".. code
+LoadText.Text = "HAI BANG RISKI " ..game.Players.LocalPlayer.DisplayName.. " From: ".. code
 
 wait(1)
 
 Barload:TweenSize(UDim2.new(0, 150,0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .3, true)
-LoadText.Text =  "Your Device is Mobile"
+LoadText.Text =  "REPLY CODE BY RISKI Ganz"
 
 wait(1)
 
 Barload:TweenSize(UDim2.new(0, 200,0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .3, true)
-LoadText.Text = "Checking Game"
+LoadText.Text = "ONE PIECE BLOX FRUIT GAME"
 
 wait(1)
 
 Barload:TweenSize(UDim2.new(0, 250,0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .3, true)
-LoadText.Text = "Game Support"
+LoadText.Text = "OWNER RISKIGANZ"
 
 wait(1)
 
 Barload:TweenSize(UDim2.new(0, 300,0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .3, true)
-LoadText.Text = "Getting ready.."
+LoadText.Text = "OK.."
 
 wait(1)
 
 Barload:TweenSize(UDim2.new(0, 300,0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .3, true)
-LoadText.Text = "Ready!"
+LoadText.Text = "MULAI!"
 
 wait(1)
 
